@@ -1,0 +1,14 @@
+.navbar-items{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-items a{
+    
+    font-family: var(--font-family);
+    font-size: 1.4rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    align-self: center;
+    margin: 0rem 4.5rem;
+}

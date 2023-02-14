@@ -1,0 +1,9 @@
+export {default as Buy} from './buy/Buy';
+export {default as Color} from './color/Color';
+export {default as Image} from './image/Image';
+export {default as Logo} from './logo/Logo';
+export {default as Navbar} from './navbar/Navbar';
+export {default as Selector} from './selector/Selector';
+export {default as Shop} from './shop/Shop';
+export {default as Size} from './size/Size';
+export {default as Title} from './title/Title';

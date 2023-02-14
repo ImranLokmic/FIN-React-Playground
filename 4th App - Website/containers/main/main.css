@@ -1,0 +1,28 @@
+.main-content-container{
+    background-color: #F6F6F6;
+    position: relative;
+    overflow: hidden;
+    margin-top: 10%;
+    
+}
+.main-content-title{
+    position: absolute;
+    top: 15%;
+    left:3%;
+    z-index: 1;
+}
+.main-content-image{
+    position: relative;
+    left:25%;
+    top:50%;
+}
+.main-content-size{
+    position: absolute;
+    right:5%;
+    top:25%;
+}
+.main-content-color{
+    position: absolute;
+    right:5%;
+    top:50%;
+}

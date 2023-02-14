@@ -1,0 +1,9 @@
+.navbar-shop-icons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-shop-icons img{
+    align-self: center;
+    margin-right: 2rem;
+}

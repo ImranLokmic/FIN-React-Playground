@@ -1,0 +1,19 @@
+.buy-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.buy-button-container p{
+    font-family: var(--font-family);
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-right: 40px;
+}
+.buy-price-container p{
+    font-family: var(--font-family);
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}

@@ -1,0 +1,46 @@
+.color-container {}
+
+.color-title {
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: uppercase;
+}
+
+.color-table {
+    display: flex;
+    flex-wrap: wrap;
+    width: 275px;
+    gap: 16px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.color-table-item {
+    display: flex;
+    flex: 0 1 auto;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid transparent;
+    border-radius: 50%;
+}
+#brown{
+    background-color: #B6A179;
+}
+#black{
+    background-color: #272425;
+}
+#blue{
+    background-color: #6389CB;
+}
+#yellow{
+    background-color: #F2C758;
+}
+#white{
+    background-color: #FFFFFF;
+}

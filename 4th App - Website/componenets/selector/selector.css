@@ -1,0 +1,10 @@
+.selector-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.selector-next-container{
+    margin-right: 50px;
+}
+

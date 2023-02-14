@@ -1,0 +1,39 @@
+
+.size-title {
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: uppercase;
+}
+
+.size-table {
+    display: flex;
+    flex-wrap: wrap;
+    height: 100px;
+    width: 275px;
+    gap: 16px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.size-table-item {
+    display: flex;
+    flex: 0 1 auto;
+    height: 42px;
+    width: 42px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #000000;
+}
+
+.size-table-item p{
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+}
